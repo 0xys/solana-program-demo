@@ -62,6 +62,6 @@ Transaction executed in slot 71790:
 ```
 Account state is updated every time the program is executed.
 In this case, 
-- `instruction: [0, 1, 0, 0, 0, 0, 0, 0, 0]` means request of incrementing account count by `1` encoded in 2nd number in array.
+- `instruction: [0, 1, 0, 0, 0, 0, 0, 0, 0]` means the request of incrementing account count by `1` encoded in 2nd number in array is received.
 - `account state: [1, 2, 0, 0, 0, 0, 0, 0, 0]` means current count is `2` encoded in last 8 bytes of the array, which is `u64` little-endian.
 - `state update: 2 + 1 = 3` means count is updated from `2`, incremented by `1` and resulting in `3`.
