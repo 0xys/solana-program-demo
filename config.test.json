@@ -1,7 +1,7 @@
 {
     "endpoint": " http://127.0.0.1:8899",
     "payerSecretKey": "5DD4ERTeB3DCBJCf8S7kE8NQVc9PbK1vDC4rgPSH2FypqHogVZiFrMJhPoun79bjYHo7KQXZXos2ZmB57q8AD4sy",
-    "programId": "Cck9VUJZbfTJzaYkAKKMwGEgrXosZd2pQHba2t7haqkm",
+    "programId": "EcGJ2LT165mbopdEtWSr6Me6N82DdkQpDjE5rT6jdcL7",
     "programSeed": "MYSEED",
     "programDataSize": "9"
 }

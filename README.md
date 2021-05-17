@@ -20,7 +20,7 @@ solana airdrop 1000 <Generated_address>
 ## Solana Program
 ### Build
 ```
-npm run build:program-rust
+npm run build:hello_count
 ```
 You will see output like:
 ```
@@ -39,7 +39,7 @@ Program Id: Cck9VUJZbfTJzaYkAKKMwGEgrXosZd2pQHba2t7haqkm
 ```
 ### Deploy
 ```
-solana program deploy dist/program/hellocount.so
+npm run publish:hello_count
 ```
 ### Request Instruction to Program
 ```
